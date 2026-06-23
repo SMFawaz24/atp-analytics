@@ -4,16 +4,16 @@ A lightweight, single-file interactive dashboard for comparing ATP tennis player
 
 ## Features
 
-**Head-to-Head (H2H)**
+**Head-to-Head (H2H)** --> 
 Compare any two players across their full match history. Filter by tournament level (Grand Slams, Masters 1000, ATP 500, ATP 250, ATP Finals) or surface (Hard, Clay, Grass, Carpet). Click any match to reveal trivia and historical context.
 
-**Titles**
+**Titles** --> 
 Side-by-side breakdown of career title counts by tournament level for any two selected players.
 
-**Surface**
+**Surface** --> 
 Career win percentages by surface alongside head-to-head breakdowns per surface and per tournament tier.
 
-**Conditional Stats**
+**Conditional Stats** --> 
 Deep conditional win rates by round, surface, pressure scenarios, and more for any player pair.
 
 ## Tech Stack
